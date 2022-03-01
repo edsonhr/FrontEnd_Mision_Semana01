@@ -23,12 +23,8 @@ La preferncia de colores del cliente es azul marino y blanco, pero acepta propue
 
 Practicas:
 
-Toma de requerimientos
-
-Buyer persona
-
-Publico objetivo
-
-UX
-
-UI
+- Toma de requerimientos
+- Buyer persona
+- Publico objetivo
+- UX
+- UI
